@@ -2477,6 +2477,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /*-------- Start Banner Area ------------*/
 .banner-area {
   background: #f9f9ff;
+  overflow: hidden;
 }
 
 .banner-area .fullscreen {
