@@ -4402,6 +4402,12 @@ dl.accordion.time-line:before {
 /* =================================== */
 .footer-area {
   background-color: #04091e;
+  min-height: 100px;
+  height: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: auto; 
+  bottom: 0;
 }
 
 .single-footer-widget h4 {
